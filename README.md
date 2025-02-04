@@ -1,4 +1,5 @@
-# URL Hider Made with SvelteKit
+# URL Hider made with SvelteKit
+![website_preview](./static/preview.png)
 To roll out this project locally, do:
 ```bash
 git clone https://github.com/nabeel-sadiq/url-hider.git
